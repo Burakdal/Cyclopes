@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundDialog">#FF8D00</color>
+
+    <color name="bordo">#5C3D46</color>
+    <color name="forTitle">#f0b82f</color>
+    <color name="forlist">#f1f2ef</color>
+    <color name="gray">#C8D6CA</color>
+    <color name="greenGray">#E7F5DE</color>
+
+
+
+</resources>

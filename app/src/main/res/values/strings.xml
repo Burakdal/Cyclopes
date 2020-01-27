@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Cyclopes</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Ocr Detector Sample</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+    <string name="text_for_cam">Text</string>
+    <string name="translated_text">Translated Text</string>
+    <string name="translate_btn">Translate</string>
+    <string name="search_btn">Search</string>
+    <string name="chose_block_title">CHOSE BLOCK</string>
+    <string name="dest_language">Dest Language :</string>
+    <string name="word">Word</string>
+    <string name="slideDescription">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+    <string name="infoText">Once upon a time Polyphemus, the cyclop, drunk some wine with a stranger named “Nobody”.
+Polyphemus, the drunken beast, got blinded by the same Nobody.
+And since that day our beloved cycplop has been walking from one side to another... all lost.
+This app is the lost eye of cyclop which he will not use for seeing but far more importantly finding meaning, translating and searching. Via this app he will comprehend everyword he sees and can translate it to the most common languages or directly search it through search engines
+
+Welcome to “Cyclopes” and have fun..
+
+Ps: also stay away from anyone who called themselves “Nobody”
+    </string>
+</resources>
